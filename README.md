@@ -90,3 +90,5 @@ O diagrama também mostra as conexões entre as classes, indicando como elas int
 * O **Motel** gerencia as **Reservas** e a alocação dos **Quartos**.
 * Uma **Reserva** está ligada a um **Quarto** e a um **Usuário**.
 * A operação `hospedar_cliente` da classe `Quarto` está diretamente relacionada ao `Motel`, que coordena essa ação.
+
+![Link do Texto](https://media.discordapp.net/attachments/1329890958678167674/1413337640702316576/0728FDFC-0421-4E77-8C4F-3AA96F77C72C.png?ex=68bb90c0&is=68ba3f40&hm=691b441679c3c6da5bcdf5fe8bf1ee8b15567f6d264bcea83dc84817d5e00477&=&format=webp&quality=lossless)
