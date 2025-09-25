@@ -91,3 +91,4 @@ O diagrama também mostra as conexões entre as classes, indicando como elas int
 * Uma **Reserva** está ligada a um **Quarto** e a um **Usuário**.
 * A operação `hospedar_cliente` da classe `Quarto` está diretamente relacionada ao `Motel`, que coordena essa ação.
 
+[Link do Diagrama]: https://ibb.co/sdmYJ9kK
