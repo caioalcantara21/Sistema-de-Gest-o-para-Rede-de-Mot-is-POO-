@@ -2,9 +2,9 @@ public class Motel {
     private boolean disponibilidade;
     private String hospede;
 
-    public Motel(boolean disponibilidade, String funcionarios){
+    public Motel(boolean disponibilidade, String hospede){
         this.disponibilidade = disponibilidade;
-        this.hospede = getHospede();
+        this.hospede = hospede;
 
     }
 
@@ -38,3 +38,4 @@ public class Motel {
     }
 
 }
+
